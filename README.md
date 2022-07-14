@@ -1,6 +1,6 @@
 ﻿## **Indroduction**
 
- The codes for the work "Site Generalization: Stroke Lesion Segmentation on Magnetic Resonance Images from Unseen Sites".
+ The codes for the work "SAN-Net: Learning Generalization to Unseen Sites for Stroke Lesion Segmentation with Self-Adaptive Normalization".
  
 ## **Dataset**
 
