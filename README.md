@@ -23,6 +23,6 @@
 
  `python train.py`
  
- The model parameters (trained on all sites from ATLAS v1.2 except for Site 5) are available on [this](https://mega.nz/folder/695zzSjK#nO3PzNjDxJSF8E1hVrc-bA).
+ The model parameters (trained on all sites from ATLAS v1.2 except for Site 5) are available on [this](https://mega.nz/fm/22A3lKqI).
 
 
